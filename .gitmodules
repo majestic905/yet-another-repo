@@ -1,0 +1,3 @@
+[submodule "pipelinehelper"]
+	path = pipelinehelper
+	url = https://github.com/bmurauer/pipelinehelper.git
